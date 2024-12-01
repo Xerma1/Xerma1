@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: this is me:
+- '''
 -                                      )
                             )      ((     (
                            (        ))     )
@@ -24,7 +25,7 @@
     ||| \       __/_||  __||__
 -----||-/------`-._/||-o--o---o---
   ~~~~~'
-
+'''
 <!---
 Xerma1/Xerma1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

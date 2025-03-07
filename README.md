@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 
 
-![ascii-art (3)](https://github.com/user-attachments/assets/99d8b10d-3f19-4ce3-91c9-f1e80f7cbb27)
+
 
 
 Xerma1/Xerma1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
